@@ -1,0 +1,102 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+.fs_14{
+  font-size: 14px;
+}
+.fs_18{
+  font-size: 18px;
+}
+.fs_19{
+  font-size: 19px;
+}
+.fs_22{
+  font-size: 22px;
+}
+.fs_23{
+  font-size: 23px;
+}
+.fs_43{
+  font-size: 43px;
+}
+.fs_20{
+  font-size: 20px;
+}
+.fs_55{
+  font-size: 61px;
+}
+.fw_300{
+  font-weight: 300;
+}
+.fw_400{
+  font-weight: 400;
+}
+.fw_500{
+  font-weight: 500;
+}
+.fw_700{
+  font-weight: 700;
+}
+.bg_gray{
+  background:rgb(223, 252, 255);
+}
+.bg_orange{
+  background: rgb(252, 213, 196);
+}
+.border_3{
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+.w_1000{
+  width: 1000px;
+}
+.w_600{
+  width: 600px;
+}
+.w_500{
+  width: 500px;
+}
+.h_500{
+  height: 600px;
+}
+.card_bg_color{
+  background:rgb(234, 249, 255)
+}
+@media screen and (max-width : 900px){
+  .fs_md_40{
+    font-size: 40px;
+  }
+  .h_md_500{
+    height: 500px;
+  }
+  .w_md_300{
+    width: 300px;
+  }
+  .w_md_400{
+    width: 400px;
+  }
+   }
+@media screen and (max-width : 360px){
+  .fs_sm_14{
+    font-size: 14px;
+  }
+  .fs_sm_18{
+    font-size: 18px;
+  }
+  .fs_sm_15{
+    font-size: 15px;
+  }
+  .fs_sm_30{
+    font-size: 30px;
+  }
+  .w_sm_100{
+    width: 200px;
+  }
+  .w_sm_300{
+    width: 300px;
+  }
+  .h_sm_290{
+    height: 300px;
+  }
+   }
