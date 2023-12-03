@@ -43,6 +43,9 @@
 .bg_orange{
   background: rgb(252, 213, 196);
 }
+.bg_purple{
+  background:rgb(250, 199, 250)
+}
 .border_3{
   border-top-right-radius: 15px;
   border-top-left-radius: 15px;
