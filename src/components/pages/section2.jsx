@@ -5,7 +5,7 @@ const Section2 = () => {
   return (
     <div>
     <div className="row g-0">
-    <div className="col-md-6 ms-3 ps-3 ps-sm-0 ms-sm-0 image-center ">
+    <div className="col-md-6  image-center image-sm-center ">
         <img src={img3} alt="calender" className=" w_500 h_500 w_sm_100 h_sm_200 h_md_300 w_md_300 w_lg_380 h_lg_450" />
       </div>
       <div className="col-md-6">
