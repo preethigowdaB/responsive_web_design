@@ -7,6 +7,7 @@ import Section3 from "../components/pages/section3";
 import Section4 from "../components/pages/section4";
 import Card1 from "../components/cards/card1";
 import Footer from "../components/footer";
+import Card2 from "../components/cards/card2";
 
 const MainPage = () => {
   return (
@@ -19,6 +20,7 @@ const MainPage = () => {
         <Section3 />
         <Section4 />
         <Card1 />
+        <Card2/>
       </div>
       <Footer />
     </>
