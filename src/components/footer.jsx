@@ -13,7 +13,7 @@ const Footer = () => {
             <br /> why my startup is so cool
           </p>
           <p className="fs_14 text-secondary">© My super start-up</p>
-          <div className="d-flex ">
+          <div className="d-flex mb-2 my-sm-0">
             <img src={twitter} alt="twitterIcon" height={30} className="mx-2" />
             <img src={facebook} alt="facebook" height={30} className="mx-2" />
             <img src={linkedIn} alt="linkedIn" height={30} className="mx-2" />

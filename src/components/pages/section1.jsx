@@ -9,7 +9,7 @@ const Section1 = () => {
           <button className="px-3 py-2 rounded-5 bg_orange text-dark fw_500 my-3 border-0">
             Seamless Scheduling
           </button>
-          <h1 className="fs_43 fs_sm_30 fw_700">Focus on what matters most for you</h1>
+          <h1 className="fs_43 fs_md_33 fs_sm_30 fw_700">Focus on what matters most for you</h1>
           <p className=" my-4 fs_22 fs_sm_18 text-secondary ">
             Effortlessly plan your day with our intuitive drag-and-drop
             interface. Sync with multiple calendar platforms, import events from
@@ -28,7 +28,7 @@ const Section1 = () => {
           </div>
         </div>
         <div className="col-md-6 text-center">
-          <img src={calender} alt="calender" className="w-sm-100 h_sm_290 h_500" />
+          <img src={calender} alt="calender" className=" w_500 h_500 w_sm_100 h_sm_200 h_md_300 w_md_300" />
         </div>
       </div>
     </div>

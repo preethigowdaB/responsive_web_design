@@ -4,7 +4,7 @@ import icon3 from '../../assets/images/icon3.jpeg'
 const Section3 = () => {
   return (
     <div>
-    <div className="row g-0 mb-sm-5 pb-sm-5 mt-3">
+    <div className="row g-0 mb-md-5 pb-md-5 mt-md-3">
       <div className="col-md-6 ">
         <button className="px-3 py-2 text-center rounded-5 bg_orange text-dark fw_500 my-3 border-0">
           {" "}
@@ -29,8 +29,8 @@ const Section3 = () => {
 
       </div>
       </div>
-      <div className="col-md-6 text-center">
-        <img src={img4} alt="calender" className="w_sm_300 w_md_400 w_600"/>
+      <div className="col-md-6 text-center image-sm-center">
+        <img src={img4} alt="calender" className="w_sm_90 w_md_400 w_600"/>
       </div>
     </div>
   </div>

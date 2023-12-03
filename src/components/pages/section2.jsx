@@ -5,8 +5,8 @@ const Section2 = () => {
   return (
     <div>
     <div className="row g-0">
-    <div className="col-md-6 ms-5 ps-5 ps-sm-0 ms-sm-0">
-        <img src={img3} alt="calender" className='w_sm_300 w_md_400 w_500' />
+    <div className="col-md-6 ms-3 ps-3 ps-sm-0 ms-sm-0 image-center ">
+        <img src={img3} alt="calender" className=" w_500 h_500 w_sm_100 h_sm_200 h_md_300 w_md_300 w_lg_380 h_lg_450" />
       </div>
       <div className="col-md-6">
         <button className=" py-2 rounded-5 bg_orange text-dark fw_500 my-3 border-0">

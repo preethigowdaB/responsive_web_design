@@ -8,7 +8,7 @@ import card6 from "../../assets/images/card6.jpeg";
 const Card1 = () => {
   return (
     <div className="">
-      <div className="row g-0 gap-5 ">
+      <div className="row g-0 gap-5 image-center image-sm-center ">
         <div className="card border-0" style={{ width: "20rem" }}>
           <div className="card_bg_color rounded-4">
             <img
@@ -135,7 +135,7 @@ const Card1 = () => {
           </div>
         </div>
       </div>
-      <div className="my-sm-5 py-sm-3 text-sm-center">
+      <div className="my-md-5 py-md-3 my-2 text-sm-center">
         <button className="py-2 px-sm-4 px-3 rounded-4 border-0 mt-sm-5 mt-2 fs_18 fs_sm_14 fw_400 ">
         They already love our products 😍
         </button>

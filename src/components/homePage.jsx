@@ -14,7 +14,7 @@ const HomePage = () => {
             Your new favourite calender 🗓️ app
           </h1>
           <div className="mx-md-5">
-            <p className="fs_19 text-secondary  fw_400 my-sm-4  fs_sm_14">
+            <p className="fs_19 fs_md_16 fs_sm_14 text-secondary  fw_400 my-sm-4  fs_sm_14">
               Here you should explain how cool your app is.Remember, focus on
               the benefits for your users,not on the features.
             </p>

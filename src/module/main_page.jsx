@@ -11,7 +11,7 @@ import Footer from "../components/footer";
 const MainPage = () => {
   return (
     <>
-      <div className="mx-lg-5 px-md-5 mx-2">
+      <div className="mx-lg-5 px-lg-5 mx-2">
         <Navbar />
         <HomePage />
         <Section1 />

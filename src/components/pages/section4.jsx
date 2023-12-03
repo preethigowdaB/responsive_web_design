@@ -5,11 +5,11 @@ const Section4 = () => {
   return (
     <div>
       <div className="row g-0">
-        <div className="col-md-6">
+        <div className="col-md-6 image-center">
           <img src={img5} alt="calender" className="w_sm_300 w_md_400 w_600" />
         </div>
         <div className="col-md-6">
-          <button className=" py-2 rounded-5 bg_orange text-dark fw_500 my-3 border-0">
+          <button className=" py-2 rounded-5 bg_orange text-dark fw_500 my-md-3 border-0">
             {" "}
             Smart Reminders & Task
           </button>
@@ -33,7 +33,7 @@ const Section4 = () => {
           </div>
         </div>
       </div>
-      <div className="my-sm-5 py-sm-3 text-sm-center">
+      <div className="my-md-5 py-md-3 my-2 text-sm-center">
         <button className="py-2 px-sm-4 px-3 rounded-4 border-0 mt-sm-5 mt-2 fs_18 fs_sm_14 fw_400 ">
         And so much more... 💼
         </button>
