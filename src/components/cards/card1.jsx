@@ -7,7 +7,7 @@ import card5 from "../../assets/images/card5.jpeg";
 import card6 from "../../assets/images/card6.jpeg";
 const Card1 = () => {
   return (
-    <div className="">
+    <div className=" text-center">
       <div className="row g-0 gap-5 image-center image-sm-center ">
         <div className="card border-0" style={{ width: "20rem" }}>
           <div className="card_bg_color rounded-4">
